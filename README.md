@@ -1,10 +1,11 @@
-<h1 align="center"> Hi 🖐️, I'm Zhiro </h1>
+<h1 align="center"> Hi 👋, I'm Zhiro </h1>
 
 <img src="https://komarev.com/ghpvc/?username=zhiro990&label=Profile%20views&color=7788ff&style=flat" alt="zhiro990"/>
 
 - 🔭 Currently working on **Random Projects**
 - 🔍 Currently learning **Python**
 - 📫 Discord : **Zhiro#0254**
+- 📌 Pinned : [**single-bar-chart**](https://github.com/Zhiro990/single-bar-chart)
 
 <h2> Stats & Info: </h2>
 
