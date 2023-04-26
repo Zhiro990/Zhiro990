@@ -2,10 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=zhiro990&label=Profile%20views&color=7788ff&style=flat" alt="zhiro990"/>
 
-- 🔭 Currently working on **random projects**
+- 🔭 Currently working on **Random Projects**
 - 🔍 Currently learning **Python**
 - 📫 Discord : **Zhiro#0254**
-- 📎 Replit : **Zhiro990**
 
 <h2> Stats & Info: </h2>
 
