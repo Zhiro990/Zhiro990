@@ -14,5 +14,5 @@
 <h2> Achievements: </h2>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhiro990&title=MultiLanguage,Repositories,Commits,Stars" alt="Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zhiro990&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Issues" alt="Achievements"/>
 </a>
