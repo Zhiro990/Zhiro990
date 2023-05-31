@@ -2,9 +2,7 @@
 
 <img src="https://lanyard.cnrad.dev/api/750513734681624576" alt="Discord Profile"/>
 
-- 🔭 Currently working on **Random Projects**.
-- 🔍 Currently learning **Python**.
-- 📌 Pinned : [**single-bar-chart**](https://github.com/Zhiro990/single-bar-chart)
+- 🔭 Currently working & learning.
 
 <h2> Stats & Info: </h2>
 
